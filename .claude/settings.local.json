@@ -1,0 +1,14 @@
+{
+  "permissions": {
+    "allow": [
+      "Bash(npm i:*)",
+      "Bash(nest new:*)",
+      "Bash(nest generate:*)",
+      "Bash(npm install:*)",
+      "Bash(npm run:*)"
+    ]
+  },
+  "enabledPlugins": {
+    "context7@claude-plugins-official": true
+  }
+}
